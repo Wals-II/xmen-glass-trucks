@@ -1,0 +1,18 @@
+{
+  "_build": "3.6.10.x",
+  "_note": "Dofus 3.0 Unity type_url short-codes. RESHUFFLE per client patch. To fix after a patch: re-capture (WGLOADER_DOFUS3_CAPTURE=1) or learn-by-observation, then update the code3 values here + bump _build. Clients auto-fetch (no re-release). Keys = STABLE semantic names.",
+  "party_invite_notif": "ijz",
+  "party_invite_request": "ime",
+  "party_accept": "ijx",
+  "own_player_id": "mft",
+  "party_member_info": "kam",
+  "map_actors": "jss",
+  "actor_added": "jsn",
+  "join_combat_request": "ili",
+  "map_fight_created": "imf",
+  "roster_fighter": "ink",
+  "actor_moved": "jsj",
+  "move": "jrw",
+  "move_confirm": "jqi",
+  "turn": "jxh"
+}
